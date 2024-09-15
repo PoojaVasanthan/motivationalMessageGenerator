@@ -1,0 +1,43 @@
+body{
+ /*UPDATE: add a background color or image here*/
+ background-color: darkturquoise
+
+}
+
+#titleText{
+  /*UPDATE: change the text size, color, font (optional) here*/
+  /*UPDATE: center align the text here*/
+  /*font from Google Fonts: https://fonts.google.com/specimen/Open+Sans?preview.text_type=custom*/
+  font-size: 60px;
+  color: aliceblue;
+  font-style: italic;
+ 
+}
+
+.mainImages{
+  /*UPDATE: change the image size here */
+  
+  /*UPDATE: center the image here*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+  
+  
+
+}
+
+#theButton
+{
+  display: block;
+  margin: 0 auto;
+  padding: 6px;
+  background-color: tan;
+  border-radius: 6px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  font-family:  'Franklin Gothic Medium'; 
+  
+  
+}
